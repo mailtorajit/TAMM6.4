@@ -1,6 +1,6 @@
 package com.selenium.module64.tests;
 
-import com.selenium.module64.patterns.DriverFactory;
+import com.selenium.module64.utility.DriverFactory;
 import com.selenium.module64.pages.FindFlightsPage;
 import com.selenium.module64.pages.SummaryPage;
 import static org.testng.Assert.assertEquals;

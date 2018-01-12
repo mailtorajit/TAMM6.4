@@ -1,7 +1,7 @@
 package com.selenium.module64.tests;
 
 import static org.testng.Assert.assertEquals;
-import com.selenium.module64.patterns.SingletonDriverManager;
+import com.selenium.module64.utility.SingletonDriverManager;
 import com.selenium.module64.pages.FindFlightsPage;
 import com.selenium.module64.pages.SummaryPage;
 import org.openqa.selenium.WebDriver;
